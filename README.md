@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @thgigabit
-- 👀 I’m interested in ... Aprender a programar.
-- 🌱 I’m currently learning ...Ainda nada, iniciando na programação
-- 💞️ I’m looking to collaborate on ... Tudo possivel
-- 📫 How to reach me ...Minhas  redes socias são todas com @thgigabit
+- 👀 I’m interested in ... Learn to program.
+- 🌱 I’m currently learning ...Still nothing, starting with programming.
+- 💞️ I’m looking to collaborate on ... All Possible
+- 📫 How to reach me ... Follow me on social media through @thgigabit
 
 
-<--- Logo devo mudar  essa bio mesmo , mas obrigado --->
+<--- Soon I should change this bio, but thanks for your attention. --->
