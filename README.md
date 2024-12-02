@@ -17,7 +17,7 @@
 <br><br>
 
 - Working as an IT Consultant and Founder of Giganexus.
-- Play FPS in your spare time.
+- Play FPS in my spare time.
 - Currently learning Cyber Security and LGPD.
 - My LinkedIn [here.](https://www.linkedin.com/in/thgigabit/)
 <!-- - I am currently open for a new job opportunity, this is [my resume](-) -->
